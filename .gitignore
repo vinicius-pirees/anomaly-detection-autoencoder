@@ -1,0 +1,13 @@
+UCSD_Anomaly_Dataset.v1p2/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+*.mp4
+*.log
+.ipynb_checkpoints/

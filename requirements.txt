@@ -1,0 +1,6 @@
+opencv-python
+Pillow
+numpy
+keras==2.1.5
+keras_layer_normalization
+matplotlib
